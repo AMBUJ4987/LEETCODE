@@ -1,0 +1,19 @@
+class Solution {
+public:
+    bool carPooling(vector<vector<int>>& trips, int capacity) {
+        vector<int> length(1001, 0);
+        
+        for (auto &trip : trips) {
+            int num = trip[0], from = trip[1], to = trip[2];
+            length[from] += num;
+            length[to] -= num;
+        }
+        
+        int curr = 0;
+        for (int i = 0; i <= 1000; i++) {
+            curr += length[i];
+            if (curr > capacity) return false;
+        }
+        return true;
+    }
+};
