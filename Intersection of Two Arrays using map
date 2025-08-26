@@ -1,0 +1,15 @@
+class Solution {
+public:
+    vector<int> intersection(vector<int>& a, vector<int>& b) {
+        unordered_map<int, int> m;
+        vector<int> res;
+        for (int x : a) m[x] = 1;
+        for (int x : b) {
+            if (m[x] == 1) {
+                res.push_back(x);
+                m[x] = 2;
+                
+            }
+        }
+        return res;
+    }
