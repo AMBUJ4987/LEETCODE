@@ -1,0 +1,16 @@
+
+class Solution {
+public:
+    int numUniqueEmails(vector<string>& a) {
+        unordered_set<string> s;
+        for (auto& e : a) {
+            size_t p = e.find('@');
+            string l = e.substr(0, p), d = e.substr(p);
+            size_t q = l.find('+');
+            if (q != string::npos) l.erase(q);
+            l.erase(remove(l.begin(), l.end(), '.'), l.end());
+            s.insert(l + d);
+        }
+        return (int)s.size();
+    }
+};
