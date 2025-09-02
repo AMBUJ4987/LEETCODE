@@ -8,3 +8,40 @@
             for d in nums4:
                 result += count[-(c + d)]
         return result
+
+
+
+
+## optimised version
+
+
+
+class Solution {
+public:
+    int fourSumCount(vector<int>& nums1, vector<int>& nums2, 
+                     vector<int>& nums3, vector<int>& nums4) {
+        unordered_map<int,int> mp;
+
+        int n1 = nums1.size(), n2 = nums2.size();
+        int totalPairs1 = n1 * n2;
+
+        for (int idx = 0; idx < totalPairs1; idx++) {
+            int i = idx / n2;
+            int j = idx % n2;
+            mp[nums1[i] + nums2[j]]++;
+        }
+
+        int result = 0;
+        int n3 = nums3.size(), n4 = nums4.size();
+        int totalPairs2 = n3 * n4;
+
+        for (int idx = 0; idx < totalPairs2; idx++) {
+            int i = idx / n4;
+            int j = idx % n4;
+            int target = -(nums3[i] + nums4[j]);
+            if (mp.find(target) != mp.end()) {
+                result += mp[target];
+            }
+        }
+
+        return result;
