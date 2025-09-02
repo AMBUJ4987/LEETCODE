@@ -1,0 +1,14 @@
+
+class Solution:
+    def commonChars(self, words: List[str]) -> List[str]:
+        freq = [float('inf')] * 26
+        for w in words:
+            cnt = [0] * 26
+            for c in w:
+                cnt[ord(c) - ord('a')] += 1
+            for i in range(26):
+                freq[i] = min(freq[i], cnt[i])
+        res = []
+        for i in range(26):
+            res.extend([chr(i + ord('a'))] * freq[i])
+        return res
