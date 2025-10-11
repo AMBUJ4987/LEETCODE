@@ -1,0 +1,13 @@
+class Solution:
+    def subarraysDivByK(self, nums, k):
+        rem = {0: 1}
+        s = 0
+        ans = 0
+        for n in nums:
+            s += n
+            r = s % k
+            if r < 0:
+                r += k
+            ans += rem.get(r, 0)
+            rem[r] = rem.get(r, 0) + 1
+        return ans
