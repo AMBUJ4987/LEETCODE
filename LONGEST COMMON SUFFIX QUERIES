@@ -1,0 +1,53 @@
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.idx = -1
+
+
+class Solution:
+    def stringIndices(self, wordsContainer, wordsQuery):
+        root = TrieNode()
+
+        # best overall word
+        best_idx = 0
+        for i in range(1, len(wordsContainer)):
+            if len(wordsContainer[i]) < len(wordsContainer[best_idx]):
+                best_idx = i
+
+        root.idx = best_idx
+
+        # insert reversed words into trie
+        for i, word in enumerate(wordsContainer):
+            node = root
+
+            # update root answer
+            if len(word) < len(wordsContainer[node.idx]):
+                node.idx = i
+
+            for ch in reversed(word):
+                if ch not in node.children:
+                    node.children[ch] = TrieNode()
+
+                node = node.children[ch]
+
+                # store best index for this suffix path
+                if (
+                    node.idx == -1 or
+                    len(word) < len(wordsContainer[node.idx])
+                ):
+                    node.idx = i
+
+        ans = []
+
+        # query
+        for word in wordsQuery:
+            node = root
+
+            for ch in reversed(word):
+                if ch not in node.children:
+                    break
+                node = node.children[ch]
+
+            ans.append(node.idx)
+
+        return ans
