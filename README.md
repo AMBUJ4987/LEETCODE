@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AMBUJ4987/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/AMBUJ4987/LEETCODE/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AMBUJ4987/LEETCODE/tree/master/0217-contains-duplicate) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AMBUJ4987/LEETCODE/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
