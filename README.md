@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/AMBUJ4987/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/AMBUJ4987/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/AMBUJ4987/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/AMBUJ4987/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
 | ------- |
@@ -53,8 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
+| [3620-network-recovery-pathways](https://github.com/AMBUJ4987/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/AMBUJ4987/LEETCODE/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/AMBUJ4987/LEETCODE/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
