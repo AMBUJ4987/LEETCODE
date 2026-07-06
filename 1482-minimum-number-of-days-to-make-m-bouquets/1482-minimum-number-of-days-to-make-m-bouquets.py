@@ -18,10 +18,10 @@ class Solution:
         left, right = min(bloomDay), max(bloomDay)
 
         while left < right:
-            mid = (left + right) // 2
+            mid = (left+right)//2
             if can_make(mid):
                 right = mid
             else:
-                left = mid + 1
+                left = mid+1    
 
         return left
