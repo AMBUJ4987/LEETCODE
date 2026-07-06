@@ -3,7 +3,7 @@ class Solution:
         d = {}
         for i in range(len(nums)):
             if (target - nums[i]) in d:
-                return i , nums.index(target - nums[i])
+                return [d[target - nums[i]], i]
             d[nums[i]] = i 
 
         
