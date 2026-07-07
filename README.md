@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AMBUJ4987/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
+| [1922-count-good-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/1922-count-good-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AMBUJ4987/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AMBUJ4987/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
