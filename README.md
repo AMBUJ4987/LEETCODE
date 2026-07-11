@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AMBUJ4987/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AMBUJ4987/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1922-count-good-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/1922-count-good-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AMBUJ4987/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AMBUJ4987/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/AMBUJ4987/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AMBUJ4987/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/AMBUJ4987/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
