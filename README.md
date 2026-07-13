@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/AMBUJ4987/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/AMBUJ4987/LEETCODE/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
