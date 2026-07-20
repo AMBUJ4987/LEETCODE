@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/AMBUJ4987/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [1260-shift-2d-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AMBUJ4987/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/AMBUJ4987/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AMBUJ4987/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AMBUJ4987/LEETCODE/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/AMBUJ4987/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AMBUJ4987/LEETCODE/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AMBUJ4987/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AMBUJ4987/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
