@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AMBUJ4987/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [1922-count-good-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
@@ -241,5 +242,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AMBUJ4987/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/AMBUJ4987/LEETCODE/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
