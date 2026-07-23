@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AMBUJ4987/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AMBUJ4987/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/AMBUJ4987/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AMBUJ4987/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AMBUJ4987/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/AMBUJ4987/LEETCODE/tree/master/0147-insertion-sort-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/AMBUJ4987/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
