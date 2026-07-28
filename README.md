@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AMBUJ4987/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AMBUJ4987/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -274,13 +275,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
