@@ -26,4 +26,4 @@ class Solution:
             path.pop()
 
         dfs(root, [], 0)
-        return ans 
+        return ans
