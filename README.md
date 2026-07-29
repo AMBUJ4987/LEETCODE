@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AMBUJ4987/LEETCODE/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
+| [0814-binary-tree-pruning](https://github.com/AMBUJ4987/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AMBUJ4987/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AMBUJ4987/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -297,10 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
+| [0814-binary-tree-pruning](https://github.com/AMBUJ4987/LEETCODE/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
+| [0814-binary-tree-pruning](https://github.com/AMBUJ4987/LEETCODE/tree/master/0814-binary-tree-pruning) |
 <!---LeetCode Topics End-->
