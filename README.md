@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0907-sum-of-subarray-minimums](https://github.com/AMBUJ4987/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0977-squares-of-a-sorted-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AMBUJ4987/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/AMBUJ4987/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AMBUJ4987/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/AMBUJ4987/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AMBUJ4987/LEETCODE/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AMBUJ4987/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AMBUJ4987/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/AMBUJ4987/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AMBUJ4987/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AMBUJ4987/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
