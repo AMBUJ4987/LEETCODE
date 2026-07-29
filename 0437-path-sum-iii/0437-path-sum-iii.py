@@ -1,5 +1,3 @@
-from collections import deque
-
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -9,34 +7,28 @@ from collections import deque
 
 class Solution:
     def pathSum(self, root, targetSum):
-        if not root:
-            return 0
-
+        prefix = {0: 1}   
         ans = 0
 
-        def dfs(node, curr_sum):
+        def dfs(node, currSum):
             nonlocal ans
+
             if not node:
-                return 0
+                return
 
-            curr_sum += node.val
+            currSum += node.val
 
-            if curr_sum == targetSum:
-                ans += 1
+            ans += prefix.get(currSum - targetSum, 0)
 
-            dfs(node.left, curr_sum)
-            dfs(node.right, curr_sum)
+            prefix[currSum] = prefix.get(currSum, 0) + 1
 
-        q = deque([root])
+            dfs(node.left, currSum)
+            dfs(node.right, currSum)
 
-        while q:
-            node = q.popleft()
+            prefix[currSum] -= 1
 
-            dfs(node, 0)
-
-            if node.left:
-                q.append(node.left)
-            if node.right:
-                q.append(node.right)
-
+        dfs(root, 0)
         return ans
+
+
+
