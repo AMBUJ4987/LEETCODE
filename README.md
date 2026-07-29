@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AMBUJ4987/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/AMBUJ4987/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AMBUJ4987/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AMBUJ4987/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AMBUJ4987/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AMBUJ4987/LEETCODE/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AMBUJ4987/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AMBUJ4987/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AMBUJ4987/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/AMBUJ4987/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/AMBUJ4987/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AMBUJ4987/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
