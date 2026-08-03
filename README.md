@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AMBUJ4987/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+| [1406-stone-game-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AMBUJ4987/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AMBUJ4987/LEETCODE/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AMBUJ4987/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AMBUJ4987/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AMBUJ4987/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/AMBUJ4987/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/AMBUJ4987/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AMBUJ4987/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AMBUJ4987/LEETCODE/tree/master/3620-network-recovery-pathways) |
@@ -333,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AMBUJ4987/LEETCODE/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
