@@ -1,28 +1,34 @@
 class Solution:
     def threeSum(self, nums):
-        li = []
+        triplets = []
         nums.sort()
-        for i in range(len(nums)):
-            if nums[i]>0:
+
+        for i, val in enumerate(nums):
+
+            if val > 0:
                 break
-            if i >0 and nums[i]==nums[i-1]:
+
+            if i > 0 and val == nums[i - 1]:
                 continue
-            l = i+1
-            r = len(nums)-1
-            while l<r:
-                s = nums[i] + nums[l]+nums[r]
-                if s == 0:
-                    li.append([nums[i],nums[l],nums[r]])
-                    l+=1
-                    r-=1
-                    while l<r and nums[l]== nums[l-1]:
-                        l+=1
-                    while l<r and nums[r]== nums[r+1]:
-                        r-=1
-                elif s<0:
-                    l+=1
+
+            left = i + 1
+            right = len(nums) - 1
+
+            while left < right:
+                current_sum = val + nums[left] + nums[right]
+
+                if current_sum > 0:
+                    right -= 1
+
+                elif current_sum < 0:
+                    left += 1
+
                 else:
-                    r-=1
-        return li
-            
-        
+                    triplets.append([val, nums[left], nums[right]])
+
+                    left += 1
+
+                    while left < right and nums[left] == nums[left - 1]:
+                        left += 1
+
+        return triplets
