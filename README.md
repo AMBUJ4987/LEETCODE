@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AMBUJ4987/LEETCODE/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AMBUJ4987/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AMBUJ4987/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/AMBUJ4987/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/AMBUJ4987/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AMBUJ4987/LEETCODE/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AMBUJ4987/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AMBUJ4987/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AMBUJ4987/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/AMBUJ4987/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AMBUJ4987/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AMBUJ4987/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
