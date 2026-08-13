@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AMBUJ4987/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0848-shifting-letters](https://github.com/AMBUJ4987/LEETCODE/tree/master/0848-shifting-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMBUJ4987/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AMBUJ4987/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AMBUJ4987/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AMBUJ4987/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/AMBUJ4987/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AMBUJ4987/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/AMBUJ4987/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AMBUJ4987/LEETCODE/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AMBUJ4987/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Backtracking
 |  |
@@ -412,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AMBUJ4987/LEETCODE/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AMBUJ4987/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
