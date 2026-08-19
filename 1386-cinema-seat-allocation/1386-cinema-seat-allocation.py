@@ -16,15 +16,15 @@ class Solution:
             right = all(s not in seats for s in [6, 7, 8, 9])
 
             if left and right:
-                # We can put two groups
+           
                 continue
 
             elif left or middle or right:
-                # Only one group can fit
+          
                 ans -= 1
 
             else:
-                # No group can fit
+ 
                 ans -= 2
 
         return ans
