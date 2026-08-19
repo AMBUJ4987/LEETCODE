@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AMBUJ4987/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/AMBUJ4987/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AMBUJ4987/LEETCODE/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AMBUJ4987/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AMBUJ4987/LEETCODE/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/AMBUJ4987/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AMBUJ4987/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/AMBUJ4987/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AMBUJ4987/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AMBUJ4987/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMBUJ4987/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AMBUJ4987/LEETCODE/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1386-cinema-seat-allocation](https://github.com/AMBUJ4987/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/AMBUJ4987/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/AMBUJ4987/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AMBUJ4987/LEETCODE/tree/master/2856-minimum-array-length-after-pair-removals) |
