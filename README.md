@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AMBUJ4987/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AMBUJ4987/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/AMBUJ4987/LEETCODE/tree/master/1563-stone-game-v) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AMBUJ4987/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AMBUJ4987/LEETCODE/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AMBUJ4987/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/AMBUJ4987/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AMBUJ4987/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMBUJ4987/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AMBUJ4987/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AMBUJ4987/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/AMBUJ4987/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AMBUJ4987/LEETCODE/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AMBUJ4987/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
