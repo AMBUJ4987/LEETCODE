@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AMBUJ4987/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AMBUJ4987/LEETCODE/tree/master/1563-stone-game-v) |
 | [1922-count-good-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/AMBUJ4987/LEETCODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AMBUJ4987/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AMBUJ4987/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AMBUJ4987/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0848-shifting-letters](https://github.com/AMBUJ4987/LEETCODE/tree/master/0848-shifting-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMBUJ4987/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/AMBUJ4987/LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AMBUJ4987/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AMBUJ4987/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMBUJ4987/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/AMBUJ4987/LEETCODE/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/AMBUJ4987/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/AMBUJ4987/LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AMBUJ4987/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/AMBUJ4987/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AMBUJ4987/LEETCODE/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AMBUJ4987/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AMBUJ4987/LEETCODE/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/AMBUJ4987/LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AMBUJ4987/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
