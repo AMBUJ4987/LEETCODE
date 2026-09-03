@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/AMBUJ4987/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/AMBUJ4987/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AMBUJ4987/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/AMBUJ4987/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AMBUJ4987/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Segment Tree
 |  |
