@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AMBUJ4987/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AMBUJ4987/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMBUJ4987/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AMBUJ4987/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMBUJ4987/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
@@ -473,4 +476,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AMBUJ4987/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AMBUJ4987/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
