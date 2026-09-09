@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/AMBUJ4987/LEETCODE/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AMBUJ4987/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AMBUJ4987/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AMBUJ4987/LEETCODE/tree/master/3310-remove-methods-from-project) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AMBUJ4987/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AMBUJ4987/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0897-increasing-order-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/AMBUJ4987/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMBUJ4987/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AMBUJ4987/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/AMBUJ4987/LEETCODE/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AMBUJ4987/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/AMBUJ4987/LEETCODE/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -484,4 +488,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
