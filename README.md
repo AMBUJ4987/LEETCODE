@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AMBUJ4987/LEETCODE/tree/master/0200-number-of-islands) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AMBUJ4987/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AMBUJ4987/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/AMBUJ4987/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0897-increasing-order-search-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AMBUJ4987/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AMBUJ4987/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AMBUJ4987/LEETCODE/tree/master/3310-remove-methods-from-project) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/AMBUJ4987/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0897-increasing-order-search-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/AMBUJ4987/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0897-increasing-order-search-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
