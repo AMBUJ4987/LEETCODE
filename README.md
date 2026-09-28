@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AMBUJ4987/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0848-shifting-letters](https://github.com/AMBUJ4987/LEETCODE/tree/master/0848-shifting-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMBUJ4987/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AMBUJ4987/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/AMBUJ4987/LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AMBUJ4987/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/2381-shifting-letters-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/AMBUJ4987/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMBUJ4987/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AMBUJ4987/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AMBUJ4987/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/AMBUJ4987/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -505,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/0897-increasing-order-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AMBUJ4987/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
