@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/AMBUJ4987/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/AMBUJ4987/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AMBUJ4987/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AMBUJ4987/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2381-shifting-letters-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/AMBUJ4987/LEETCODE/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AMBUJ4987/LEETCODE/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AMBUJ4987/LEETCODE/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/AMBUJ4987/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AMBUJ4987/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AMBUJ4987/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AMBUJ4987/LEETCODE/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AMBUJ4987/LEETCODE/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AMBUJ4987/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AMBUJ4987/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AMBUJ4987/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -511,4 +514,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AMBUJ4987/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AMBUJ4987/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
