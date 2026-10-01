@@ -1,5 +1,10 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        x = len(nums)
-        return sum(range(x+1)) - sum(nums)
+        a = []
+        for i in range(len(nums)+1):
+            if i not in nums:
+                return i
         
+
+
+       
