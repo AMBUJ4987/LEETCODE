@@ -1,12 +1,16 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        count = [0] * 102
-        for num in nums:
-            count[num+1] +=1
-        for i in range(1,102):
-            count[i]+=count[i-1]
-        return [count[num] for num in nums]        
-
+        a = 0
+        l=[]
+      
+        while a< len(nums):
+            c=0
+            for i in nums:
+                if i<nums[a]:
+                    c+=1
+            l.append(c)
+            a+=1
+        return l
                
                       
 
