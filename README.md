@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AMBUJ4987/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/AMBUJ4987/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AMBUJ4987/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AMBUJ4987/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMBUJ4987/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/AMBUJ4987/LEETCODE/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AMBUJ4987/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AMBUJ4987/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0414-third-maximum-number) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AMBUJ4987/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AMBUJ4987/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
