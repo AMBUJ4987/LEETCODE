@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AMBUJ4987/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMBUJ4987/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/AMBUJ4987/LEETCODE/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/AMBUJ4987/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AMBUJ4987/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AMBUJ4987/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMBUJ4987/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AMBUJ4987/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AMBUJ4987/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AMBUJ4987/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AMBUJ4987/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AMBUJ4987/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0848-shifting-letters](https://github.com/AMBUJ4987/LEETCODE/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/1140-stone-game-ii) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AMBUJ4987/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AMBUJ4987/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AMBUJ4987/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
