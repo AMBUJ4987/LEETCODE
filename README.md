@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AMBUJ4987/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/AMBUJ4987/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AMBUJ4987/LEETCODE/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/AMBUJ4987/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AMBUJ4987/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AMBUJ4987/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/AMBUJ4987/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMBUJ4987/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/AMBUJ4987/LEETCODE/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/AMBUJ4987/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -554,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AMBUJ4987/LEETCODE/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AMBUJ4987/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
