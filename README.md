@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/AMBUJ4987/LEETCODE/tree/master/0848-shifting-letters) |
 | [0907-sum-of-subarray-minimums](https://github.com/AMBUJ4987/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/AMBUJ4987/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/AMBUJ4987/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/AMBUJ4987/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/AMBUJ4987/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AMBUJ4987/LEETCODE/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/AMBUJ4987/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/AMBUJ4987/LEETCODE/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/AMBUJ4987/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AMBUJ4987/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AMBUJ4987/LEETCODE/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AMBUJ4987/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AMBUJ4987/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/AMBUJ4987/LEETCODE/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/AMBUJ4987/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AMBUJ4987/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/AMBUJ4987/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AMBUJ4987/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
